@@ -21,6 +21,7 @@ dist/
 build/
 installer_output/
 *.spec
+*.zip
 
 # Logs & Temporary files
 *.log
