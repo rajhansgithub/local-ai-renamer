@@ -1,0 +1,22 @@
+{
+  "engine": "local_florence2",
+  "local_model_id": "microsoft/Florence-2-base",
+  "gemini_api_key": "",
+  "min_words": 1,
+  "max_words": 5,
+  "word_separator": "_",
+  "lowercase": true,
+  "recursive": true,
+  "device": "cuda",
+  "supported_extensions": [
+    ".jpg",
+    ".jpeg",
+    ".png",
+    ".webp",
+    ".bmp",
+    ".tiff",
+    ".tif"
+  ],
+  "auto_close_on_complete": false,
+  "auto_close_delay_seconds": 3
+}

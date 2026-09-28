@@ -1,0 +1,48 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+.venv/
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Hugging Face & AI Model Weights (Large Files)
+models/
+.locks/
+huggingface/
+
+# Build & Distribution
+dist/
+build/
+installer_output/
+*.spec
+
+# Logs & Temporary files
+*.log
+scratch/
+tmp/
+temp/
+*.tmp
+
+# Windows Shell / Thumbnail caches
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+desktop.ini
+
+# IDEs & Editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.swp
+*.swo
+
+# Sensitive local config overrides (template kept in repository)
+# config.local.json
